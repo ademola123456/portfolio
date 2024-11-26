@@ -1,0 +1,176 @@
+Uri: https://portfolio-mu-ecru-22.vercel.app/
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/clubarant
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\clubarant.html
+Content Type: text/html
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/enterprise
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\enterprise.html
+Content Type: text/html
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/favicon.ico
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/niyolabs
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\niyolabs.html
+Content Type: text/html
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/Yusuf_Oluwatosin_Abdulazeez_Resume.pdf
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\Yusuf_Oluwatosin_Abdulazeez_Resume.pdf
+Content Type: application/pdf
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/215-cfaab7460b12f918.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\215-cfaab7460b12f918.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/4bd1b696-0d7f59b88a6013df.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\4bd1b696-0d7f59b88a6013df.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/621-162cdd2f70e0dfa0.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\621-162cdd2f70e0dfa0.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/685-c705f1c47427005d.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\685-c705f1c47427005d.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/821-0fde4552142f05c0.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\821-0fde4552142f05c0.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/881-63463daea5d23e13.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\881-63463daea5d23e13.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/app/clubarant/page-8dc77828e08775b6.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\app\clubarant\page-8dc77828e08775b6.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/app/enterprise/page-06b703dfeff28f4e.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\app\enterprise\page-06b703dfeff28f4e.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/app/layout-02583709f21c9b02.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\app\layout-02583709f21c9b02.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/app/niyolabs/page-d209d1af34633318.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\app\niyolabs\page-d209d1af34633318.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/app/page-4e28a6618bc9ea73.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\app\page-4e28a6618bc9ea73.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/c15bf2b0-c5f2ab0c4ce668d5.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\c15bf2b0-c5f2ab0c4ce668d5.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/main-app-8de0464ec52fec5b.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\main-app-8de0464ec52fec5b.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/chunks/webpack-fdf812f1e3226e68.js
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\chunks\webpack-fdf812f1e3226e68.js
+Content Type: application/javascript
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/css/121972bb034c42bb.css
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\css\121972bb034c42bb.css
+Content Type: text/css
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/css/2e5d101a04dec9be.css
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\css\2e5d101a04dec9be.css
+Content Type: text/css
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/css/d3655ba1cd4a8282.css
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\css\d3655ba1cd4a8282.css
+Content Type: text/css
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/clubarant.80eeb222.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\clubarant.80eeb222.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/css.31ba833a.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\css.31ba833a.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/eze.76c63cd7.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\eze.76c63cd7.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/full-Logo.e4eb6137.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\full-Logo.e4eb6137.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/hero.51e48c55.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\hero.51e48c55.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/javascript.2fbdc20f.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\javascript.2fbdc20f.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/LeagueSpartan-Regular.596e3b52.ttf
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\LeagueSpartan-Regular.596e3b52.ttf
+Content Type: font/ttf
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/Mainlux-Light.a6bec2d9.otf
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\Mainlux-Light.a6bec2d9.otf
+Content Type: font/otf
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/menu.e2a44a13.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\menu.e2a44a13.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/mui.80b6c499.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\mui.80b6c499.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/niyolabs.322c2141.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\niyolabs.322c2141.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/project2.127421df.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\project2.127421df.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/project3.d1bb5b2e.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\project3.d1bb5b2e.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/project4.232085db.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\project4.232085db.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/project5.2a328854.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\project5.2a328854.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/scss.3967b128.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\scss.3967b128.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/tailwind.2714549b.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\tailwind.2714549b.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/tosin.116bc7e8.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\tosin.116bc7e8.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/vuejs.2f11cb72.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\vuejs.2f11cb72.svg
+Content Type: image/svg+xml
+
+Uri: https://portfolio-mu-ecru-22.vercel.app/_next/static/media/white-full-logo.59862587.svg
+File Name: C:\Downloaded Web Sites\portfolio-mu-ecru-22.vercel.app\_next\static\media\white-full-logo.59862587.svg
+Content Type: image/svg+xml
+
