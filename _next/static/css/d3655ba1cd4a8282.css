@@ -355,6 +355,12 @@ video {
   padding:4px 8px;
 }
 
+a.active {
+  background-color: #111111;
+  border-radius: 8px;
+  color: white;
+  padding:4px 8px;
+}
 /* Style the tab content */
 .tabcontent {
   display: none;

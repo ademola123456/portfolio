@@ -16,52 +16,10 @@
       href="_next/static/css/121972bb034c42bb.css"
       data-precedence="next"
     />
-    <link
-      rel="preload"
-      as="script"
-      fetchpriority="low"
-      href="_next/static/chunks/webpack-fdf812f1e3226e68.js"
-    />
-    <script
-      src="_next/static/chunks/4bd1b696-0d7f59b88a6013df.js"
-      async=""
-    ></script>
-    <script
-      src="_next/static/chunks/215-cfaab7460b12f918.js"
-      async=""
-    ></script>
-    <script
-      src="_next/static/chunks/main-app-8de0464ec52fec5b.js"
-      async=""
-    ></script>
-    <script
-      src="_next/static/chunks/881-63463daea5d23e13.js"
-      async=""
-    ></script>
-    <script
-      src="_next/static/chunks/685-c705f1c47427005d.js"
-      async=""
-    ></script>
-    <script
-      src="_next/static/chunks/app/layout-02583709f21c9b02.js"
-      async=""
-    ></script>
-    <script
-      src="_next/static/chunks/c15bf2b0-c5f2ab0c4ce668d5.js"
-      async=""
-    ></script>
-    <script
-      src="_next/static/chunks/621-162cdd2f70e0dfa0.js"
-      async=""
-    ></script>
-    <script
-      src="_next/static/chunks/821-0fde4552142f05c0.js"
-      async=""
-    ></script>
-    <script
-      src="_next/static/chunks/app/page-4e28a6618bc9ea73.js"
-      async=""
-    ></script>
+    
+   
+   
+   
     <title>Oloruntomi ademola</title>
     <meta
       name="description"
@@ -175,10 +133,10 @@
                   style="background-color:#0e101029; color: white"
                 >
                   <ul class="flex w-full justify-between items-center">
-                    <li class="pin-nav active-tag">
+                    <li class="pin-nav  active-tag"  onClick="togglenav(event)">
                       <div
                         class="tosin-tag inline-flex gap-1.5 md:gap-3 items-center p-1.5 md:p-2 rounded-md"
-                      ><a href="#me">
+                      ><a href="#me" >
                         <p
                           class="text-sm md:text-[1.2rem] leading-[1.2rem] font-mainlux font-[100] whitespace-nowrap"
                         >
@@ -187,10 +145,10 @@
                         </a>
                       </div>
                     </li>
-                    <li class="pin-nav">
+                    <li class="pin-nav " onClick="togglenav(event)">
                       <div
                         class="about-tag inline-flex gap-1.5 md:gap-3 items-center p-1.5 md:p-3 rounded-md"
-                      ><a href="#about">
+                      ><a href="#about" >
                         <p
                           class="text-sm md:text-[1.2rem] leading-[1.2rem] font-mainlux font-[100] whitespace-nowrap"
                         >
@@ -198,10 +156,10 @@
                         </p></a>
                       </div>
                     </li>
-                    <li class="pin-nav">
+                    <li class="pin-nav"  onClick="togglenav(event)">
                       <div
                         class="project-tag inline-flex gap-1.5 md:gap-3 items-center p-1.5 md:p-3 rounded-md"
-                      ><a href="#project">
+                      ><a href="#project" >
                         <p
                           class="text-sm md:text-[1.2rem] leading-[1.2rem] font-mainlux font-[100] whitespace-nowrap"
                         >
@@ -209,10 +167,10 @@
                         </p></a>
                       </div>
                     </li>
-                    <li class="pin-nav">
+                    <li class="pin-nav"  onClick="togglenav(event)">
                       <div
                         class="tools-tag inline-flex gap-1.5 md:gap-3 items-center p-1.5 md:p-2 rounded-md"
-                      ><a href="#tools">
+                      ><a href="#tools" >
                         <p
                           class="text-sm md:text-[1.2rem] leading-[1.2rem] font-mainlux font-[100] whitespace-nowrap"
                         >
@@ -220,10 +178,10 @@
                         </p></a>
                       </div>
                     </li>
-                    <li class="pin-nav">
+                    <li class="pin-nav"  onClick="togglenav(event)">
                       <div
                         class="tools-tag inline-flex gap-1.5 md:gap-3 items-center p-1.5 md:p-2 rounded-md"
-                      ><a href="#contact">
+                      ><a href="#contact" >
                         <p
                           class="text-sm md:text-[1.2rem] leading-[1.2rem] font-mainlux font-[100] whitespace-nowrap"
                         >
@@ -799,7 +757,8 @@
       var sticky = tools.offsetTop;
 
       function myFunction() {
-        if (window.pageYOffset > sticky) {
+        if (window.pageYOffset >= sticky) {
+          // console.log('hello world');3
           header.classList.add("head-offset");
         } else {
           header.classList.remove("head-offset");
@@ -818,6 +777,15 @@
           
       }
 
+      function togglenav(evt){
+      tablinks = document.getElementsByClassName("pin-nav");
+        for (i = 0; i < tablinks.length; i++) {
+          tablinks[i].className = tablinks[i].className.replace(" active-tag", "");
+        }
+        
+        evt.currentTarget.className += " active-tag";
+      }
+      
       function openCity(evt, cityName) {
         // Declare all variables
         var i, tabcontent, tablinks;
